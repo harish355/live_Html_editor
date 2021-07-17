@@ -1,4 +1,4 @@
-# online_editor_deploy
+# Html Editor (Frontend)
 
 [https://harish355.github.io/online_editor_deploy/](https://harish355.github.io/online_editor_deploy/)
 
