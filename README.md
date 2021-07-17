@@ -10,6 +10,6 @@
 ### Code Reset Button
 ### Save
 
-## Steps to Install
+# Steps to Install
 ### 1. yarn install
 ### 2. yarn start
