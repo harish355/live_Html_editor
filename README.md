@@ -5,7 +5,7 @@
 ### File Explorer with 3 Files
 ### Live View with .5sec Hot-reload
 ### Syntax Highlight
-### Error Highlight
+⋅⋅⋅ Error Highlight
 ### Manual ReLoad 
 ### Code Reset Button
 ### Save
